@@ -1,0 +1,40 @@
+header 
+{
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: center;
+    border: 7px;
+    border-style: groove;
+    border-color: rgb(0, 153, 241);
+}
+
+main
+{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 25px;
+    text-align: center;
+    border: 7px;
+    border-style: groove;
+    border-color: rgb(145, 39, 39);
+}
+footer
+{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 25px;
+    text-align: center;
+    border: 7px;
+    border-style: groove;
+    border-color: rgb(0, 153, 241);
+}
+
+#ima1
+{
+    width: 40%;
+}
+
+#ima2
+{
+    width: 41%;
+}
